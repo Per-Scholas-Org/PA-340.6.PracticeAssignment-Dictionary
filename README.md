@@ -1,12 +1,12 @@
 [![Per Scholas](per_scholas_logo.png)](https://www.perscholas.org) 
 
-# GLAB-340.6.1-Dictionary
+# PA - 340.6.1 - Practice Assignment - Dictionary
 
 ## Introduction
 The project is a Python program for a movie database management system. The program allows users to add, edit, and view movie information such as title, genre, director, release date, and actors. It also includes a search functionality that enables users to search for a specific movie based on its title or any other criteria.
 
 ## Lab Overview
-In this lab, we'll demonstrate how to use different dictionary method. After implementing this project, learners will gain an understanding of how to use Python dictionaries effectively. They will learn the following aspects of dictionary manipulation.
+In this lab, we'll demonstrate how to use different dictionary methods. After implementing this project, learners will gain an understanding of how to use Python dictionaries effectively. They will learn the following aspects of dictionary manipulation.
 
 ## Examples
 
@@ -61,7 +61,7 @@ We then update the year of "The Dark Knight" using square bracket syntax, delete
 
 ***But, we'll take it to one more level***
 
-We'll ask input from user to create this list as well. So, below is the complete requirement
+We'll ask for input from the user to create this list as well. So, below is the complete requirement
 
 ***Requirement***
 
