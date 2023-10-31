@@ -76,3 +76,7 @@ We'll ask for input from the user to create this list as well. So, below is the 
 - [ ] Data validation: The program should validate all input data to ensure that it is in the correct format and that no incorrect data is stored in the database.
 
 ***Please find attached mdms_dic.py for the sample game code.***
+
+# Submission guideline:
+Submit your Python file or code using the Start Assignment button in the top-right corner of the assignment page in Canvas.
+
